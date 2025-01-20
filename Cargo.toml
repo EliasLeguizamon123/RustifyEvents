@@ -1,6 +1,6 @@
 [package]
-name = "gh-activity"
-version = "0.1.0"
+name = "rustifyEvents"
+version = "1.0.1"
 edition = "2021"
 
 [dependencies]
