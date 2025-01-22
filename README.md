@@ -1,6 +1,9 @@
 # RustifyEvents
 
-![image](./logo.png)
+<p align="center">
+<img src="./logo.png" width="200px" height="200px" />
+</p>
+
 
 [Roadmap.io](https://roadmap.sh/projects/github-user-activity)
 
